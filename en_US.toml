@@ -536,6 +536,7 @@ you_downloaded_n_videos = '''You just downloaded successfully your $1th file wit
 ## Panel
 
 # Setting > Theme
+settings_theme_title = "Theme:"
 settings_theme_system = "system"
 settings_theme_light = "light"
 settings_theme_dark = "dark"
