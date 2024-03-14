@@ -543,15 +543,6 @@ panel_view_sort_time = "Sort by discovery time"
 panel_view_sort_status = "Sort by status"
 panel_view_sort_reverse = "Reverse sorting"
 
-# Setting > Theme
-settings_theme_title = "Theme:"
-settings_theme_system = "system"
-settings_theme_light = "light"
-settings_theme_dark = "dark"
-
-# Settings > new badge (needs to be a short word)
-settings_badge_new = "new"
-
 # Panel > Footer
 panel_footer_show_in_sidebar_tooltip = "Show in sidebar"
 panel_footer_show_in_popup_tooltip = "Show in popup"
@@ -559,3 +550,31 @@ panel_footer_settings = "settings"
 panel_footer_settings_tooltip = "Open settings"
 panel_footer_cleanup = "cleanup"
 panel_footer_cleanup_tooltip = "Remove all detected videos. Keep downloaded videos."
+
+# Setting
+
+settings_button_reset = "Reset settings"
+settings_button_import = "Import settings"
+settings_button_export = "Export settings"
+settings_button_reload = "Reload addon"
+
+settings_help = "Help"
+
+settings_download_directory = "Download directory"
+settings_download_directory_change = "Change"
+
+settings_checkbox_force_inbrowser = "Do not use CoApp when possible"
+settings_checkbox_notification = "Show notification when download is complete"
+settings_checkbox_notification_incognito = "Show notifications for private browsing"
+
+settings_license_placeholder = "Enter license"
+settings_license_check = "Check license key"
+settings_license_get = "Get license"
+
+settings_theme_title = "Theme"
+settings_theme_system = "system"
+settings_theme_light = "light"
+settings_theme_dark = "dark"
+
+# Settings > new badge (needs to be a short word)
+settings_badge_new = "new"
