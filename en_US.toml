@@ -549,7 +549,9 @@ panel_footer_show_in_popup_tooltip = "Show in popup"
 panel_footer_settings = "settings"
 panel_footer_settings_tooltip = "Open settings"
 panel_footer_cleanup = "cleanup"
-panel_footer_cleanup_tooltip = "Remove all detected videos. Keep downloaded videos."
+panel_footer_cleanup_tooltip = "Cleanup: Remove all detected videos. Keep downloaded videos."
+panel_footer_download_all = "Download All"
+panel_footer_cleanup_all_tooltip = "Download all the media"
 
 # Setting
 
