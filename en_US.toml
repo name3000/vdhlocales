@@ -553,7 +553,7 @@ panel_clear_downloadable = "Clear media"
 panel_footer_show_in_sidebar_tooltip = "Show in sidebar"
 panel_footer_show_in_popup_tooltip = "Show in popup"
 panel_footer_settings_tooltip = "Open settings"
-panel_footer_download_all_tooltip = "Download All the media"
+panel_footer_download_all_tooltip = "Download all the media"
 
 # Setting
 
