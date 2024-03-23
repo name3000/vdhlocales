@@ -536,6 +536,8 @@ you_downloaded_n_videos = '''You just downloaded successfully your $1th file wit
 
 ## Panel
 
+panel_copy_info_button = "Copy information to clipboard"
+
 panel_download_button_label = "Download" # Need to be shortDownload!
 
 panel_view_tooltip = "View options"
@@ -548,6 +550,14 @@ panel_view_sort_reverse = "Reverse sorting"
 panel_clear_tooltip = "Remove media from list"
 panel_clear_all = "Clear media + downloads (keep files)" # This needs to be as short as possible
 panel_clear_downloadable = "Clear media"
+
+panel_downloadable_variant_no_details = "no details" # keep short
+
+# Panel > Error
+
+panel_error_coapp_failure_title = "Unsupported download"
+panel_error_coapp_failure_description = "Saddly we failed at downloading that specific media. We try to support as many websites as possible, so it would help a lot if you could report that error!"
+panel_error_coapp_failure_report_button = "Open Ticket (click the copy button first!)"
 
 # Panel > Footer
 panel_footer_show_in_sidebar_tooltip = "Show in sidebar"
