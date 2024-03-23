@@ -558,6 +558,7 @@ panel_downloadable_variant_no_details = "no details" # keep short
 panel_error_coapp_failure_title = "Unsupported download"
 panel_error_coapp_failure_description = "Saddly we failed at downloading that specific media. We try to support as many websites as possible, so it would help a lot if you could report that error!"
 panel_error_coapp_failure_report_button = "Open Ticket (click the copy button first!)"
+panel_error_coapp_failure_copy_report_button = "Copy bug details"
 
 # Panel > Footer
 panel_footer_show_in_sidebar_tooltip = "Show in sidebar"
