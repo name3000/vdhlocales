@@ -536,8 +536,6 @@ you_downloaded_n_videos = '''You just downloaded successfully your $1th file wit
 
 ## Panel
 
-panel_copy_info_button = "Copy information to clipboard"
-
 panel_download_button_label = "Download" # Need to be shortDownload!
 
 panel_view_tooltip = "View options"
