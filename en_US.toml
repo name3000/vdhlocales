@@ -576,6 +576,9 @@ settings_help = "Help"
 settings_download_directory = "Download directory"
 settings_download_directory_change = "Change"
 
+settings_variants_title = "Variant preferences"
+settings_variants_clear = "Clear"
+
 settings_checkbox_force_inbrowser = "Do not use CoApp when possible"
 settings_checkbox_notification = "Show notification when download is complete"
 settings_checkbox_notification_incognito = "Show notifications for private browsing"
