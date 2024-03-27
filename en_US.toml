@@ -595,3 +595,10 @@ settings_theme_dark = "dark"
 
 # Settings > new badge (needs to be a short word)
 settings_badge_new = "new"
+
+
+# All these need to be short!
+panel_download_button_label = "Download"
+panel_download_as_button_label = "Download As…"
+panel_download_audio_button_label = "Download Audio"
+panel_copy_url_button_label = "Copy URL"
