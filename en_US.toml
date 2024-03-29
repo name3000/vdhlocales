@@ -538,17 +538,15 @@ you_downloaded_n_videos = '''You just downloaded successfully your $1th file wit
 
 panel_download_button_label = "Download" # Need to be shortDownload!
 
-panel_view_tooltip = "View options"
 panel_view_show_all_tabs = "Show all tabs"
 panel_view_show_fg_tab_firt = "Show current tab first"
 panel_view_show_low_quality = "Show low quality media"
-panel_view_sort_time = "Sort by discovery time"
 panel_view_sort_status = "Sort by status"
 panel_view_sort_reverse = "Reverse sorting"
-panel_clear_tooltip = "Remove media from list"
-panel_clear_all = "Clear media + downloads (keep files)" # This needs to be as short as possible
-panel_clear_downloadable = "Clear media"
-
+panel_view_download_all = "Show Download All button"
+panel_view_clean = "Show Clean button"
+panel_view_clean_all = "Show Clean All button"
+panel_view_conver_local = "Show Convert Local button"
 panel_downloadable_variant_no_details = "no details" # keep short
 
 # Panel > Error
@@ -562,7 +560,12 @@ panel_error_coapp_failure_copy_report_button = "Copy bug details"
 panel_footer_show_in_sidebar_tooltip = "Show in sidebar"
 panel_footer_show_in_popup_tooltip = "Show in popup"
 panel_footer_settings_tooltip = "Open settings"
+
+panel_footer_clean_tooltip = "Forget discovered media"
+panel_footer_clean_all_tooltip = "Forget discovered media and hide downloaded media"
+panel_footer_convert_local_tooltip = "Convert local files"
 panel_footer_download_all_tooltip = "Download all the media"
+
 
 # Setting
 
