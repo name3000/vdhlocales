@@ -566,6 +566,9 @@ panel_footer_clean_all_tooltip = "Forget discovered and downloaded media (files 
 panel_footer_convert_local_tooltip = "Convert local files"
 panel_footer_download_all_tooltip = "Download all the media"
 
+panel_error_button_more_info = "More info"
+panel_error_nocoapp_button_install = "Download & Install"
+panel_error_coapp_too_old_button_udpate = "Update"
 
 # Setting
 
