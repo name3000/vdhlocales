@@ -561,8 +561,8 @@ panel_footer_show_in_sidebar_tooltip = "Show in sidebar"
 panel_footer_show_in_popup_tooltip = "Show in popup"
 panel_footer_settings_tooltip = "Open settings"
 
-panel_footer_clean_tooltip = "Forget discovered media"
-panel_footer_clean_all_tooltip = "Forget discovered and downloaded media (files are not deleted)"
+panel_footer_clean_tooltip = "Remove discovered media"
+panel_footer_clean_all_tooltip = "Remove discovered and downloaded media (files are not deleted)"
 panel_footer_convert_local_tooltip = "Convert local files"
 panel_footer_download_all_tooltip = "Download all the media"
 
