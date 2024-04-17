@@ -566,18 +566,17 @@ panel_footer_clean_all_tooltip = "Remove discovered and downloaded media (files 
 panel_footer_convert_local_tooltip = "Convert local files"
 panel_footer_download_all_tooltip = "Download all the media"
 
-panel_error_button_more_info = "More info"
 panel_error_nocoapp_button_install = "Download & Install"
 panel_error_coapp_too_old_button_udpate = "Update"
 
 # Setting
 
+v9_short_help = "help?"
+
 settings_button_reset = "Reset settings"
 settings_button_import = "Import settings"
 settings_button_export = "Export settings"
 settings_button_reload = "Reload addon"
-
-settings_help = "Help"
 
 settings_download_directory = "Download directory"
 settings_download_directory_change = "Change"
