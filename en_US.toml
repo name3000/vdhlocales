@@ -543,10 +543,10 @@ panel_view_show_fg_tab_firt = "Show current tab first"
 panel_view_show_low_quality = "Show low quality media"
 panel_view_sort_status = "Sort by status"
 panel_view_sort_reverse = "Reverse sorting"
-panel_view_download_all = "Show Download All button"
 panel_view_clean = "Show Clean button"
 panel_view_clean_all = "Show Clean All button"
-panel_view_conver_local = "Show Convert Local button"
+panel_view_open_settings = "More settings"
+
 panel_downloadable_variant_no_details = "no details" # keep short
 
 # Panel > Error
@@ -559,12 +559,10 @@ panel_error_coapp_failure_copy_report_button = "Copy bug details"
 # Panel > Footer
 panel_footer_show_in_sidebar_tooltip = "Show in sidebar"
 panel_footer_show_in_popup_tooltip = "Show in popup"
-panel_footer_settings_tooltip = "Open settings"
 
 panel_footer_clean_tooltip = "Remove discovered media"
 panel_footer_clean_all_tooltip = "Remove discovered and downloaded media (files are not deleted)"
 panel_footer_convert_local_tooltip = "Convert local files"
-panel_footer_download_all_tooltip = "Download all the media"
 
 panel_error_nocoapp_button_install = "Download & Install"
 panel_error_coapp_too_old_button_udpate = "Update"
@@ -588,6 +586,7 @@ settings_checkbox_force_inbrowser = "Do not use CoApp when possible"
 settings_checkbox_notification = "Show notification when download is complete"
 settings_checkbox_notification_incognito = "Show notifications for private browsing"
 settings_checkbox_forget_on_close = "Clear discovered media when tab is closed"
+settings_checkbox_view_convert_local = "Show Convert Local button"
 
 settings_license_placeholder = "Enter license"
 settings_license_check = "Check license key"
