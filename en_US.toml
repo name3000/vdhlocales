@@ -545,6 +545,7 @@ panel_view_sort_status = "Sort by status"
 panel_view_sort_reverse = "Reverse sorting"
 panel_view_clean = "Show Clean button"
 panel_view_clean_all = "Show Clean All button"
+panel_view_autoclean = "Do not show downloaded media"
 panel_view_open_settings = "More settings"
 
 panel_downloadable_variant_no_details = "no details" # keep short
