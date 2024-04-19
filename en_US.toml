@@ -539,13 +539,12 @@ you_downloaded_n_videos = '''You just downloaded successfully your $1th file wit
 panel_download_button_label = "Download" # Need to be shortDownload!
 
 panel_view_show_all_tabs = "Show all tabs"
-panel_view_show_fg_tab_firt = "Show current tab first"
 panel_view_show_low_quality = "Show low quality media"
 panel_view_sort_status = "Sort by status"
 panel_view_sort_reverse = "Reverse sorting"
 panel_view_clean = "Show Clean button"
 panel_view_clean_all = "Show Clean All button"
-panel_view_autoclean = "Do not show downloaded media"
+panel_view_hide_downloaded = "Do not show downloaded media"
 panel_view_open_settings = "More settings"
 
 panel_downloadable_variant_no_details = "no details" # keep short
