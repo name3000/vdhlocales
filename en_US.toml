@@ -544,7 +544,6 @@ panel_view_sort_status = "Sort by status"
 panel_view_sort_reverse = "Reverse sorting"
 panel_view_clean = "Show Clean button"
 panel_view_clean_all = "Show Clean All button"
-panel_view_hide_downloaded = "Do not show downloaded media"
 panel_view_open_settings = "More settings"
 
 panel_downloadable_variant_no_details = "no details" # keep short
@@ -606,3 +605,7 @@ panel_download_button_label = "Download"
 panel_download_as_button_label = "Download As…"
 panel_download_audio_button_label = "Download Audio"
 panel_copy_url_button_label = "Copy URL"
+
+# User messages
+panel_view_hide_downloaded = "Automatically hide downloaded media"
+v9_user_message_auto_hide_downloaded = "Automatically hide downloaded media?"
