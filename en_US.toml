@@ -586,6 +586,7 @@ settings_checkbox_notification = "Show notification when download is complete"
 settings_checkbox_notification_incognito = "Show notifications for private browsing"
 settings_checkbox_forget_on_close = "Clear discovered media when tab is closed"
 settings_checkbox_view_convert_local = "Show Convert Local button"
+settings_checkbox_use_wide_ui = "Make the addon popup larger"
 
 settings_license_placeholder = "Enter license"
 settings_license_check = "Check license key"
