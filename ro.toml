@@ -181,3 +181,18 @@ weh_prefs_smartnamerFnameSpaces_option_keep = '''Păstrează'''
 weh_prefs_smartnamerFnameSpaces_option_remove = '''Elimină'''
 weh_prefs_smartnamerFnameSpaces_option_underscore = '''Înlocuiește cu linie de subliniere'''
 you_downloaded_n_videos = '''Tocmai ați descărcat cu succes al $1th fișier cu Video DownloadHelper.'''
+
+## V9 Strings
+
+v9_no_media_current_tab = '''Nu există media de procesat în fila curentă'''
+v9_no_media_to_process_descr = '''Apasă redare pe video pentru a ajuta detectarea fișierelor ...'''
+v9_converter_needs_reg = '''Este necesară înregistrarea'''
+v9_get_conversion_license = '''Obține o licență pentru conversie'''
+v9_converter_reg_audio = '''Ați solicitat, explicit sau printr-o regulă de conversie automată, generarea unui fișier media numai cu audio. Aceasta necesită un convertor înregistrat.'''
+v9_about_qr = '''Fișier generat'''
+v9_explain_qr1 = '''Veți observa că video-ul rezultat conține un filigran în colț.'''
+v9_not_see_again = '''Nu mai vedeți din nou acest mesaj'''
+v9_tell_me_more = '''Spune mai multe despre asta.'''
+v9_settings = '''Setări'''
+v9_vdh_notification = '''Video DownloadHelper'''
+v9_file_ready = '''"$1" este gata'''
