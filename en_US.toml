@@ -1,6 +1,11 @@
 [en_US]
 
+## Title of the Add-on.
+
 __MSG_appDesc_ = "Video DownloadHelper"
+
+## Strings
+
 Bytes = '''$1 Bytes'''
 GB = '''$1 GB'''
 KB = '''$1 KB'''
