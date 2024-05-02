@@ -553,7 +553,6 @@ v9_coapp_required_text = '''This operation requires an external application to b
 v9_coapp_help = '''Click here to troubleshoot your issue.'''
 v9_coapp_installed = '''Companion App installed'''
 v9_coapp_recheck = '''Recheck'''
-v9_lic_status_accepted = '''License verified'''
 v9_coapp_outdated = '''Companion App outdated - please update'''
 v9_dialog_audio_impossible_title = '''Can't download audio'''
 v9_dialog_audio_impossible = '''This type of media doesn't support audio only download'''
@@ -572,12 +571,9 @@ v9_tell_me_more = '''Tell me more about this'''
 v9_settings = '''Settings'''
 v9_copy_settings_info_to_clipboard = '''Copy information to clipboard'''
 v9_coapp_unchecked = '''Verifying Companion App…'''
-v9_coapp_installed = '''Companion App installed'''
-v9_coapp_outdated = '''Companion App outdated - please update'''
 v9_coapp_update = '''Update Companion App'''
 v9_coapp_not_installed = '''Companion App not installed'''
 v9_coapp_install = '''Install Companion App'''
-v9_coapp_recheck = '''Recheck'''
 v9_no_validate_without_coapp = '''The companion app must be installed to validate the license'''
 v9_lic_status_verifying = '''Verifying license…'''
 v9_weh_prefs_label_downloadControlledMax = '''Max concurrent downloads'''
@@ -593,8 +589,6 @@ v9_lic_status_accepted = '''License verified'''
 v9_no_license_registered = '''No license has been registered'''
 
 ## Panel
-
-v9_panel_download_button_label = "Download" # Need to be shortDownload!
 
 v9_panel_view_show_all_tabs = "Show all tabs"
 v9_panel_view_show_low_quality = "Show low quality media"
