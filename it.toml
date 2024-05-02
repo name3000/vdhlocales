@@ -575,3 +575,6 @@ mup_reset = "azzera"
 mup_saved = "salvato!"
 weh_prefs_description_use_native_filepicker = "Usa il gestore di documenti del Sistema Operativo"
 weh_prefs_label_use_native_filepicker = "Usa il gestore di documenti nativo"
+v9_dialog_audio_impossible_title = '''Impossibile scaricare l'audio'''
+v9_dialog_audio_impossible = '''Questo tipo di file multimediale non supporta lo scaricamento del solo audio'''
+v9_mup_max_variants = '''Conteggio delle varianti'''

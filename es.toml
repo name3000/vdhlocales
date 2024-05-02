@@ -574,3 +574,6 @@ mup_reset = "reset"
 mup_saved = "¡Salvado!"
 weh_prefs_description_use_native_filepicker = "Utilizar el selector de archivos del sistema operativo"
 weh_prefs_label_use_native_filepicker = "Utilizar el selector de archivos nativo"
+v9_dialog_audio_impossible_title = '''No se puede descargar audio'''
+v9_dialog_audio_impossible = '''Este tipo de soporte no admite descarga sólo de audio'''
+v9_mup_max_variants = '''Conteo de variantes'''

@@ -568,3 +568,7 @@ coapp_help = "Hier anklicken, um Ihr Problem zu beheben."
 mup_best_video_quality = "bevorzugt Videoqualität"
 mup_ignored_video_codecs = "Medien nicht mit Codes zeigen"
 weh_prefs_label_tbvwsExtractionMethod = "Extraktionsmethode"
+v9_coapp_help = '''Hier anklicken, um Ihr Problem zu beheben.'''
+v9_dialog_audio_impossible_title = '''Herunterladen von Audio nicht möglich'''
+v9_dialog_audio_impossible = '''Diese Medienart unterstützt das Herunterladen von nur Audio nicht '''
+v9_copy_settings_info_to_clipboard = '''Information in die Zwischenablage kopieren'''

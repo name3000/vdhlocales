@@ -578,3 +578,6 @@ mup_prefered_container = "Furmatu preferitu di u cuntenidore"
 mup_prefered_video_codecs = "Cudechi di filmettu preferiti"
 mup_reset = "reinizià"
 mup_saved = "arregistratu !"
+v9_dialog_audio_impossible_title = '''Ùn si pò micca scaricà l’audio'''
+v9_dialog_audio_impossible = '''Stu tipu di medià ùn accetta micca di scaricà solu l’audio'''
+v9_mup_max_variants = '''Numeru di variante'''
