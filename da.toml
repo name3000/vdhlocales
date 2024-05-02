@@ -1,3 +1,4 @@
+
 [da]
 Bytes = '''$1 Byte'''
 GB = '''$1 GB'''
@@ -352,9 +353,7 @@ weh_prefs_titleMode_option_multiline = '''Over flere linjer'''
 weh_prefs_titleMode_option_right = '''Prikker til højre'''
 yes = '''Ja'''
 you_downloaded_n_videos = '''Du har lige downloaded din %. fil med Video DownloadHelper.'''
-
 ## V9 Strings
-
 v9_yes = '''Ja'''
 v9_no = '''Nej'''
 v9_error = '''Fejl'''
@@ -380,5 +379,4 @@ v9_file_ready = '''"$1" er nu klar'''
 v9_lic_status_unset = '''Licens ikke sat'''
 v9_lic_status_blocked = '''Licens blokeret'''
 v9_lic_status_locked = '''Licens låst (revalideres)'''
-v9_lic_status_accepted = '''Licens accepteret'''
 v9_no_license_registered = '''Der blev ikke registreret en licens'''

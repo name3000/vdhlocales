@@ -1,3 +1,4 @@
+
 [sl]
 Bytes = '''$1 B'''
 GB = '''$1 GB'''
@@ -500,9 +501,7 @@ weh_prefs_titleMode_option_multiline = '''Preko več vrstic'''
 weh_prefs_titleMode_option_right = '''Tropičje na desni'''
 yes = '''Da'''
 you_downloaded_n_videos = '''Z Video DownloadHelperjem ste uspešno prenesli $1. datoteko.'''
-
 ## V9 Strings
-
 v9_yes = '''Da'''
 v9_no = '''Ne'''
 v9_error = '''Napaka'''
@@ -528,12 +527,9 @@ v9_not_see_again = '''Ne prikaži tega sporočila več'''
 v9_tell_me_more = '''Povej več o tem'''
 v9_settings = '''Nastavitve'''
 v9_coapp_unchecked = '''Preverjanje programa Companion App …'''
-v9_coapp_installed = '''Companion App je nameščen'''
-v9_coapp_outdated = '''Companion App je zastarel - prosimo, posodobite'''
 v9_coapp_update = '''Posodobi Companion App'''
 v9_coapp_not_installed = '''Companion App ni nameščen'''
 v9_coapp_install = '''Namesti Companion App'''
-v9_coapp_recheck = '''Ponovno preveri'''
 v9_no_validate_without_coapp = '''Za preverjanje dovoljenja morate namestiti soprogram'''
 v9_lic_status_verifying = '''Preverjanje dovoljenja …'''
 v9_weh_prefs_label_downloadControlledMax = '''Največje št. vzporednih prenosov'''
@@ -544,5 +540,4 @@ v9_lic_status_unset = '''Dovoljenje ni nastavljeno'''
 v9_lic_status_blocked = '''Dovoljenje je zavrnjeno'''
 v9_lic_status_locked = '''Dovoljenje je zaklenjeno (ponovno preverjanje veljavnosti)'''
 v9_lic_mismatch2 = '''Licenca je za $1 toda gradnja razširitve je za $2'''
-v9_lic_status_accepted = '''Dovoljenje je preverjeno'''
 v9_no_license_registered = '''Dovoljenje ni bilo registrirano'''

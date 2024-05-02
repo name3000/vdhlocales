@@ -1,3 +1,4 @@
+
 [sk]
 Bytes = '''$1 Bytov'''
 GB = '''$1 GB'''
@@ -495,9 +496,7 @@ weh_prefs_titleMode_option_multiline = '''V niekoľkých riadkoch'''
 weh_prefs_titleMode_option_right = '''Elipsa napravo'''
 yes = '''Áno'''
 you_downloaded_n_videos = '''Práve teraz bolo dokončené stiahnutie $1 aplikáciou Pomocník sťahovania videa.'''
-
 ## V9 Strings
-
 v9_yes = '''Áno'''
 v9_no = '''Nie'''
 v9_error = '''Chyba'''
@@ -523,12 +522,9 @@ v9_not_see_again = '''Nechcem vidieť túto správu opakovane'''
 v9_tell_me_more = '''Povedať viac o...'''
 v9_settings = '''Nastavenia'''
 v9_coapp_unchecked = '''Overuje sa pridružená apl. ...'''
-v9_coapp_installed = '''Pridružená apl. naištalovaná'''
-v9_coapp_outdated = '''Pridružená apl. je zastaraná - prosím aktualizujte'''
 v9_coapp_update = '''Aktualizácia pridruženej aplikácie'''
 v9_coapp_not_installed = '''Pridružená apl. nie je inštalovaná'''
 v9_coapp_install = '''Inštalácia pridruženej apl.:'''
-v9_coapp_recheck = '''Skontrolovať'''
 v9_no_validate_without_coapp = '''Sprievodná apl. musí byť inštalovaná na overenie licencie'''
 v9_lic_status_verifying = '''Overuje sa licencia...'''
 v9_weh_prefs_label_downloadControlledMax = '''Max. súčasných sťahovaní'''
@@ -539,5 +535,4 @@ v9_lic_status_unset = '''Licencia nie je nastavená'''
 v9_lic_status_blocked = '''Licencia blokovaná'''
 v9_lic_status_locked = '''Licencia uzamknutá'''
 v9_lic_mismatch2 = '''Licencia je pre $1 ale verzia dplnku je pre $2'''
-v9_lic_status_accepted = '''Licencia overená'''
 v9_no_license_registered = '''Žiadna licencia nebola registrovaná'''

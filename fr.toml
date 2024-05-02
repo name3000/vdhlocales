@@ -1,3 +1,4 @@
+
 [fr]
 Bytes = '''$1 octets'''
 GB = '''$1 GB'''
@@ -524,9 +525,7 @@ weh_prefs_titleMode_option_multiline = '''Sur plusieurs lignes'''
 weh_prefs_titleMode_option_right = '''Ellipse à droite'''
 yes = '''Oui'''
 you_downloaded_n_videos = '''Vous venez juste de télécharger avec succès votre $1e fichier avec Video DownloadHelper.'''
-
 ## V9 Strings
-
 v9_yes = '''Oui'''
 v9_no = '''Non'''
 v9_error = '''Erreur'''
@@ -556,12 +555,9 @@ v9_tell_me_more = '''En savoir plus'''
 v9_settings = '''Paramètres'''
 v9_copy_settings_info_to_clipboard = '''Copier'''
 v9_coapp_unchecked = '''Vérification de l'Appli Compagnon…'''
-v9_coapp_installed = '''Appli compagnon installée'''
-v9_coapp_outdated = '''Application Compagnon obsolète - merci de mettre à jour'''
 v9_coapp_update = '''Mettre à jour l'application compagnon'''
 v9_coapp_not_installed = '''Appli compagnon non installée'''
 v9_coapp_install = '''Installer l'appli compagnon'''
-v9_coapp_recheck = '''Re-tester'''
 v9_no_validate_without_coapp = '''L'appli compagnon doit être installée pour valider la licence'''
 v9_lic_status_verifying = '''Vérification de la licence'''
 v9_weh_prefs_label_downloadControlledMax = '''Téléchargements simultanés maximum :'''
@@ -573,5 +569,4 @@ v9_lic_status_unset = '''Licence non enregistrée'''
 v9_lic_status_blocked = '''Licence bloquée'''
 v9_lic_status_locked = '''Licence verrouillée (revalidation)'''
 v9_lic_mismatch2 = '''La licence est pour $1 mais l'extension a été générée pour $2'''
-v9_lic_status_accepted = '''Licence vérifiée'''
 v9_no_license_registered = '''Aucune licence n'a été enregistré'''

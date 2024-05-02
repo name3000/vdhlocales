@@ -1,3 +1,4 @@
+
 [ca]
 Bytes = '''$1 Bytes'''
 GB = '''$1 GB'''
@@ -498,9 +499,7 @@ weh_prefs_titleMode_option_multiline = '''Sobre diverses línies'''
 weh_prefs_titleMode_option_right = '''Punts suspensius a la dreta'''
 yes = '''Sí'''
 you_downloaded_n_videos = '''Has baixat el teu $1è fitxer amb Video DownloadHelper '''
-
 ## V9 Strings
-
 v9_yes = '''Sí'''
 v9_no = '''No'''
 v9_error = '''Error'''
@@ -526,12 +525,9 @@ v9_not_see_again = '''No mostris més aquest missatge'''
 v9_tell_me_more = '''Explica me'n més coses'''
 v9_settings = '''Configuració'''
 v9_coapp_unchecked = '''S'està verificant l'Aplicació Addicional...'''
-v9_coapp_installed = '''L'Aplicació Addicional està instal·lada'''
-v9_coapp_outdated = '''L'Aplicació Addicional està obsoleta - actualitza-la, si et plau'''
 v9_coapp_update = '''Actualitza l'Aplicació Addicional...'''
 v9_coapp_not_installed = '''L'Aplicació Addicional no està instal·lada'''
 v9_coapp_install = '''Instal·la l'Aplicació Addicional'''
-v9_coapp_recheck = '''Torna-ho a comprovar'''
 v9_no_validate_without_coapp = '''Cal instal·lar l'Aplicació Addicional per a validar la llicència'''
 v9_lic_status_verifying = '''S'està verificant la llicència...'''
 v9_weh_prefs_label_downloadControlledMax = '''Nombre màxim de baixades simultànies'''
@@ -542,5 +538,4 @@ v9_lic_status_unset = '''No s'ha establert la llicencia'''
 v9_lic_status_blocked = '''La llicència està bloquejada'''
 v9_lic_status_locked = '''La llicència està bloquejada (s'està revalidant)'''
 v9_lic_mismatch2 = '''La llicència és per $1, però el muntatge de la extensió és per $2'''
-v9_lic_status_accepted = '''La llicència s'ha verificat'''
 v9_no_license_registered = '''No s'ha registrat cap llicència'''

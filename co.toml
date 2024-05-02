@@ -1,3 +1,4 @@
+
 [co]
 Bytes = '''$1 ottetti'''
 GB = '''$1 Go'''
@@ -513,9 +514,7 @@ weh_prefs_titleMode_option_multiline = '''Nant’à parechje linee'''
 weh_prefs_titleMode_option_right = '''Ellisse à manu diritta'''
 yes = '''Sì'''
 you_downloaded_n_videos = '''Venite subitu di riesce à scaricà u vostru $1u schedariu cù Video DownloadHelper.'''
-
 ## V9 Strings
-
 v9_yes = '''Sì'''
 v9_no = '''Innò'''
 v9_error = '''Sbagliu'''
@@ -543,12 +542,9 @@ v9_tell_me_more = '''Sapene di più apprupositu di què'''
 v9_settings = '''Preferenze'''
 v9_copy_settings_info_to_clipboard = '''Cupià l’infurmazione in u preme’papei'''
 v9_coapp_unchecked = '''Verificazione di l’appiecazione cumpagnu…'''
-v9_coapp_installed = '''Appiecazione cumpagnu installata :'''
-v9_coapp_outdated = '''Appiecazione cumpagnu troppu anziana, rinnovatela per piacè'''
 v9_coapp_update = '''Rinnovà l’appiecazione cumpagnu'''
 v9_coapp_not_installed = '''Appiecazione cumpagnu micca installata'''
 v9_coapp_install = '''Installà l’appiecazione cumpagnu'''
-v9_coapp_recheck = '''Torna à verificà'''
 v9_no_validate_without_coapp = '''L’appiecazione cumpagnu deve esse installata per validà a licenza'''
 v9_lic_status_verifying = '''Verificazione di a licenza…'''
 v9_weh_prefs_label_downloadControlledMax = '''Numeru massimu di scaricamenti simultanei'''
@@ -559,5 +555,4 @@ v9_lic_status_unset = '''Licenza micca definita'''
 v9_lic_status_blocked = '''Licenza bluccata'''
 v9_lic_status_locked = '''Licenza ammarchjunata (rivalidazione)'''
 v9_lic_mismatch2 = '''A licenza hè per « $1 » ma l’estensione hè stata creata per « $2 »'''
-v9_lic_status_accepted = '''Licenza verificata'''
 v9_no_license_registered = '''Nisuna licenza ùn hè stata arregistrata'''

@@ -1,3 +1,4 @@
+
 [pl]
 Bytes = '''$1 bajtów'''
 GB = '''$1 GB'''
@@ -500,9 +501,7 @@ weh_prefs_titleMode_option_multiline = '''W wielu wierszach'''
 weh_prefs_titleMode_option_right = '''Wielokropek po prawej stronie'''
 yes = '''Tak'''
 you_downloaded_n_videos = '''Za pomocą Video DownloadHelpera został pobrany %ty plik.'''
-
 ## V9 Strings
-
 v9_yes = '''Tak'''
 v9_no = '''Nie'''
 v9_error = '''Błąd'''
@@ -528,12 +527,9 @@ v9_not_see_again = '''Nie wyświetlaj tej informacji ponownie'''
 v9_tell_me_more = '''Powiedz więcej o tym'''
 v9_settings = '''Ustawienia'''
 v9_coapp_unchecked = '''Weryfikacja aplikacji firmowej...'''
-v9_coapp_installed = '''Aplikacja firmowa zainstalowana'''
-v9_coapp_outdated = '''Aplikacja firmowa nieaktualna - proszę zaktualizować'''
 v9_coapp_update = '''Aktualizacja aplikacji firmowej'''
 v9_coapp_not_installed = '''Aplikacja firmowa nie zainstalowana'''
 v9_coapp_install = '''Zainstaluj aplikacje firmową'''
-v9_coapp_recheck = '''Sprawdź ponownie'''
 v9_no_validate_without_coapp = '''Aplikacja firmowa musi być zainstalowana wraz z licencją'''
 v9_lic_status_verifying = '''Weryfikacja licencji...'''
 v9_weh_prefs_label_downloadControlledMax = '''Maksymalna liczba równoczesnych pobrań'''
@@ -544,5 +540,4 @@ v9_lic_status_unset = '''Brak licencji'''
 v9_lic_status_blocked = '''Licencja zablokowana'''
 v9_lic_status_locked = '''Licencja zamknięta'''
 v9_lic_mismatch2 = '''Licencja jest ważna dla $1 ale wersja rozszerzenia to $2'''
-v9_lic_status_accepted = '''Licencja zaakceptowana'''
 v9_no_license_registered = '''Brak zarejestrowanej licencji'''

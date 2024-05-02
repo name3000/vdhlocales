@@ -1,3 +1,4 @@
+
 [id]
 Bytes = '''$1 Bytes'''
 GB = '''$1 GB'''
@@ -498,9 +499,7 @@ weh_prefs_titleMode_option_multiline = '''Lebih dari beberapa baris'''
 weh_prefs_titleMode_option_right = '''Tanda pengganti di kanan'''
 yes = '''Ya'''
 you_downloaded_n_videos = '''Anda baru saja berhasil mengunduh berkas $1th dengan Video DownloadHelper.'''
-
 ## V9 Strings
-
 v9_yes = '''Ya'''
 v9_no = '''Tidak'''
 v9_error = '''Kesalahan'''
@@ -526,12 +525,9 @@ v9_not_see_again = '''Jangan tampilkan pesan itu lagi'''
 v9_tell_me_more = '''Info lebih lanjut tentang ini'''
 v9_settings = '''Setelan'''
 v9_coapp_unchecked = '''Memverifikasi Aplikasi Pendamping...'''
-v9_coapp_installed = '''Aplikasi Pendamping terpasang'''
-v9_coapp_outdated = '''Aplikasi Pendamping usang - perbarui'''
 v9_coapp_update = '''Perbarui Aplikasi Pendamping'''
 v9_coapp_not_installed = '''Aplikasi Pendamping tidak terpasang'''
 v9_coapp_install = '''Pasang Aplikasi Pendamping'''
-v9_coapp_recheck = '''Periksa ulang'''
 v9_no_validate_without_coapp = '''Aplikasi pendamping harus terpasang untuk memvalidasi lisensi'''
 v9_lic_status_verifying = '''Memverifikasi lisensi...'''
 v9_weh_prefs_label_downloadControlledMax = '''Maks unduhan bersamaan '''
@@ -542,5 +538,4 @@ v9_lic_status_unset = '''Lisensi tidak disetel'''
 v9_lic_status_blocked = '''Lisensi terblokir'''
 v9_lic_status_locked = '''Lisensi terkunci (validasi ulang)'''
 v9_lic_mismatch2 = '''Lisensi untuk $1 tetapi pembuatan ekstensi untuk $2'''
-v9_lic_status_accepted = '''Lisensi terverifikasi'''
 v9_no_license_registered = '''Tidak ada lisensi yang didaftarkan'''

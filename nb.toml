@@ -1,3 +1,4 @@
+
 [nb]
 Bytes = '''Bytes'''
 GB = '''GB'''
@@ -237,9 +238,7 @@ weh_prefs_smartnamerFnameSpaces_option_remove = '''Fjern'''
 weh_prefs_smartnamerFnameSpaces_option_underscore = '''Erstatt med understrek'''
 yes = '''Ja'''
 you_downloaded_n_videos = '''Du har nettopp lastet ned din $1th vellykkede fil med Video DownloadHelper.'''
-
 ## V9 Strings
-
 v9_yes = '''Ja'''
 v9_no_media_current_tab = '''Ingen media å behandle i nåværende fane'''
 v9_no_media_to_process_descr = '''Spill av video for å hjelpe å oppdage filer...'''

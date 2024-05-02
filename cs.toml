@@ -1,3 +1,4 @@
+
 [cs]
 Bytes = '''bajtů'''
 GB = '''GB'''
@@ -500,9 +501,7 @@ weh_prefs_titleMode_option_multiline = '''Přes několik řádků'''
 weh_prefs_titleMode_option_right = '''Výpustka na pravo'''
 yes = '''Ano'''
 you_downloaded_n_videos = '''Právě jste úspěšně stáhli váš $1tý soubor s Video DownloadHelperem.'''
-
 ## V9 Strings
-
 v9_yes = '''Ano'''
 v9_no = '''Ne'''
 v9_error = '''Chyba'''
@@ -528,12 +527,9 @@ v9_not_see_again = '''Nechci vidět tuto zprávu znovu'''
 v9_tell_me_more = '''Řekni mi více o tomhle'''
 v9_settings = '''Nastavení'''
 v9_coapp_unchecked = '''Ověřuji pomocnou aplikaci'''
-v9_coapp_installed = '''Pomocná aplikace nainstalována'''
-v9_coapp_outdated = '''Zastaralá pomocná aplikace - prosím aktualizujte'''
 v9_coapp_update = '''Aktualizovat pomocnou aplikaci'''
 v9_coapp_not_installed = '''Pomocná aplikace není nainstalována'''
 v9_coapp_install = '''Instalovat pomocnou aplikaci'''
-v9_coapp_recheck = '''Překontrolovat'''
 v9_no_validate_without_coapp = '''Pomocná aplikace musí být nainstalovaná pro ověření licence'''
 v9_lic_status_verifying = '''Ověřování licence'''
 v9_weh_prefs_label_downloadControlledMax = '''Max souběžných stahování'''
@@ -544,5 +540,4 @@ v9_lic_status_unset = '''Licence není nastavena'''
 v9_lic_status_blocked = '''Licence zablokována'''
 v9_lic_status_locked = '''Licence zamčena (přeověřovávám)'''
 v9_lic_mismatch2 = '''Licence je pro $1 ale sestavení rozšíření je pro $2'''
-v9_lic_status_accepted = '''Licence ověřena'''
 v9_no_license_registered = '''Žádná licence není registrovaná'''

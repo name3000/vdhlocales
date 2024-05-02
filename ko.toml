@@ -1,3 +1,4 @@
+
 [ko]
 Bytes = '''$1바이트'''
 GB = '''$1GB'''
@@ -278,9 +279,7 @@ weh_prefs_label_qualitiesMaxVariants = '''최대 변종 비디오'''
 weh_prefs_label_toolsMenuEnabled = '''툴 메뉴'''
 weh_prefs_smartnamerFnameSpaces_option_remove = '''삭제'''
 yes = '''네'''
-
 ## V9 Strings
-
 v9_yes = '''네'''
 v9_error = '''오류'''
 v9_no_media_current_tab = '''현재 탭에 미디어가 없습니다'''
@@ -301,9 +300,7 @@ v9_explain_qr1 = '''결과 비디오 코너 부분에 워터마크가 있는 것
 v9_not_see_again = '''이 메세지를 다시 보지 않습니다.'''
 v9_settings = '''설정'''
 v9_coapp_unchecked = '''도우미 앰 검증중...'''
-v9_coapp_installed = '''도우미 앱이 설치됨'''
 v9_coapp_update = '''도우미 앱 업데이트'''
 v9_coapp_install = '''도우미 앱 설치'''
-v9_coapp_recheck = '''재확인'''
 v9_weh_prefs_label_downloadControlledMax = '''최대 동시 다운로드'''
 v9_file_ready = '''"$1" 가 준비되었습니다.'''

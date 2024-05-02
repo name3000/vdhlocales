@@ -1,3 +1,4 @@
+
 [sv]
 Bytes = '''$1 byte'''
 GB = '''$1 GB'''
@@ -500,9 +501,7 @@ weh_prefs_titleMode_option_multiline = '''Över flera rader'''
 weh_prefs_titleMode_option_right = '''Punkter till höger'''
 yes = '''Ja'''
 you_downloaded_n_videos = '''Du har precis laddat ned $1 filer med Video DownloadHelper.'''
-
 ## V9 Strings
-
 v9_yes = '''Ja'''
 v9_no = '''Nej'''
 v9_error = '''Fel'''
@@ -528,12 +527,9 @@ v9_not_see_again = '''Visa inte detta meddelande igen'''
 v9_tell_me_more = '''Berätta mer om detta'''
 v9_settings = '''Inställningar'''
 v9_coapp_unchecked = '''Verifierar Companion App…'''
-v9_coapp_installed = '''Companion App installerad'''
-v9_coapp_outdated = '''Companion App utdaterad - snälla uppdatera'''
 v9_coapp_update = '''Uppdatera Companion App…'''
 v9_coapp_not_installed = '''Companion App inte installerad'''
 v9_coapp_install = '''Installera Companion App'''
-v9_coapp_recheck = '''Kontrollera igen'''
 v9_no_validate_without_coapp = '''Kompanionsappen måste bli installerad för att validera licensen'''
 v9_lic_status_verifying = '''Verifierar license'''
 v9_weh_prefs_label_downloadControlledMax = '''Max antal samtidiga nedladdningar'''
@@ -544,5 +540,4 @@ v9_lic_status_unset = '''Licens inte satt'''
 v9_lic_status_blocked = '''Licens blockerad'''
 v9_lic_status_locked = '''Licens låst (återge giltigheten)'''
 v9_lic_mismatch2 = '''Licensen gäller för $1 men tilläggets version är för $2'''
-v9_lic_status_accepted = '''Licens verifierad'''
 v9_no_license_registered = '''Ingen licens har blivit registrerad'''

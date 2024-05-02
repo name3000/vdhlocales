@@ -1,3 +1,4 @@
+
 [is]
 Bytes = '''$1 bæti'''
 KB = '''$1 KB'''
@@ -235,9 +236,7 @@ weh_prefs_titleMode_option_left = '''Úrfellingarmerki til vinstri'''
 weh_prefs_titleMode_option_multiline = '''Yfir margar línur'''
 weh_prefs_titleMode_option_right = '''Úrfellingarmerki til hægri'''
 you_downloaded_n_videos = '''Þú varst að sækja skrá númer $1th með VDH-niðurhalshjálpinni.'''
-
 ## V9 Strings
-
 v9_no_media_current_tab = '''Engin margmiðlunargögn til að vinna með í núverandi flipa'''
 v9_no_media_to_process_descr = '''Smelltu á afspilun á myndskeiði til að hjálpa við að finna skrár…'''
 v9_converter_needs_reg = '''Skráningar er krafist'''

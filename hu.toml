@@ -1,3 +1,4 @@
+
 [hu]
 Bytes = '''bájt'''
 GB = '''GB'''
@@ -500,9 +501,7 @@ weh_prefs_titleMode_option_multiline = '''Több sorban'''
 weh_prefs_titleMode_option_right = '''"..." a jobb oldalon'''
 yes = '''Igen'''
 you_downloaded_n_videos = '''Sikeresen letöltötted a(z) $1. fájlodat a Video DownloadHelper-rel!'''
-
 ## V9 Strings
-
 v9_yes = '''Igen'''
 v9_no = '''Nem'''
 v9_error = '''Hiba'''
@@ -528,12 +527,9 @@ v9_not_see_again = '''Ne mutassa többször'''
 v9_tell_me_more = '''Tudj meg többet'''
 v9_settings = '''Beállítások'''
 v9_coapp_unchecked = '''A társalkalmazás ellenőrzése...'''
-v9_coapp_installed = '''A társalkalmazás telepítve'''
-v9_coapp_outdated = '''A társalkalmazás elavult, kérjük frissítsd!'''
 v9_coapp_update = '''A társalkalmazás frissítése'''
 v9_coapp_not_installed = '''A társalkalmazás nincs telepítve'''
 v9_coapp_install = '''A társalkalmazás telepítése'''
-v9_coapp_recheck = '''Újraellenőrzés'''
 v9_no_validate_without_coapp = '''A társalkalmazásnak telepítve kell lennie a licensz ellenőrzéséhez'''
 v9_lic_status_verifying = '''Licensz ellenőrzése...'''
 v9_weh_prefs_label_downloadControlledMax = '''Maximum egyidejű letöltések'''
@@ -544,5 +540,4 @@ v9_lic_status_unset = '''A licensz nincs beállítva'''
 v9_lic_status_blocked = '''Licensz elutasíva'''
 v9_lic_status_locked = '''Licensz zárolva (újraellenőrzés)'''
 v9_lic_mismatch2 = '''A licensz $1-ra érvényes, de a bővítmény build-je $2-ra'''
-v9_lic_status_accepted = '''Licensz elfogadva'''
 v9_no_license_registered = '''Nincs regisztrált licensz'''

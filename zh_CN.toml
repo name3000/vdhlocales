@@ -1,3 +1,4 @@
+
 [zh_CN]
 Bytes = '''$1 字节'''
 GB = '''$1 GB'''
@@ -500,9 +501,7 @@ weh_prefs_titleMode_option_multiline = '''在过去的几行'''
 weh_prefs_titleMode_option_right = '''省略号居右'''
 yes = '''是'''
 you_downloaded_n_videos = '''您刚刚成功用 Video DownloadHelper 下载您的第 $1 个文件。'''
-
 ## V9 Strings
-
 v9_yes = '''是'''
 v9_no = '''否'''
 v9_error = '''错误'''
@@ -528,12 +527,9 @@ v9_not_see_again = '''禁止再次提醒'''
 v9_tell_me_more = '''了解更多'''
 v9_settings = '''设置'''
 v9_coapp_unchecked = '''正在验证合作应用...'''
-v9_coapp_installed = '''合作应用已安装'''
-v9_coapp_outdated = '''合作应用已过期 - 请更新'''
 v9_coapp_update = '''更新合作应用'''
 v9_coapp_not_installed = '''合作应用未安装'''
 v9_coapp_install = '''安装合作应用'''
-v9_coapp_recheck = '''重复检查'''
 v9_no_validate_without_coapp = '''必须安装合作应用以验证许可'''
 v9_lic_status_verifying = '''正在验证许可...'''
 v9_weh_prefs_label_downloadControlledMax = '''最大执行下载任务'''
@@ -544,5 +540,4 @@ v9_lic_status_unset = '''许可未设置'''
 v9_lic_status_blocked = '''许可已屏蔽'''
 v9_lic_status_locked = '''许可已锁定(正在重新验证)'''
 v9_lic_mismatch2 = '''许可证适用于$1，但本扩展版本适用于$2'''
-v9_lic_status_accepted = '''许可已验证'''
 v9_no_license_registered = '''未注册许可'''

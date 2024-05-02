@@ -1,3 +1,4 @@
+
 [ro]
 Bytes = '''$1 Octeți'''
 KB = '''$1 KO'''
@@ -181,9 +182,7 @@ weh_prefs_smartnamerFnameSpaces_option_keep = '''Păstrează'''
 weh_prefs_smartnamerFnameSpaces_option_remove = '''Elimină'''
 weh_prefs_smartnamerFnameSpaces_option_underscore = '''Înlocuiește cu linie de subliniere'''
 you_downloaded_n_videos = '''Tocmai ați descărcat cu succes al $1th fișier cu Video DownloadHelper.'''
-
 ## V9 Strings
-
 v9_no_media_current_tab = '''Nu există media de procesat în fila curentă'''
 v9_no_media_to_process_descr = '''Apasă redare pe video pentru a ajuta detectarea fișierelor ...'''
 v9_converter_needs_reg = '''Este necesară înregistrarea'''

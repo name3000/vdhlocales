@@ -1,3 +1,4 @@
+
 [pt_BR]
 Bytes = '''$1 Bytes'''
 GB = '''$1 GB'''
@@ -500,9 +501,7 @@ weh_prefs_titleMode_option_multiline = '''Em várias linhas'''
 weh_prefs_titleMode_option_right = '''Reticências à direita'''
 yes = '''Sim'''
 you_downloaded_n_videos = '''Você acabou de baixar com sucesso seu $1º arquivo com o Video DownloadHelper.'''
-
 ## V9 Strings
-
 v9_yes = '''Sim'''
 v9_no = '''Não'''
 v9_error = '''Erro '''
@@ -528,12 +527,9 @@ v9_not_see_again = '''Não ver essa mensagem novamente'''
 v9_tell_me_more = '''Mais informações sobre isso'''
 v9_settings = '''Configurações'''
 v9_coapp_unchecked = '''Verificando Aplicativo auxiliar'''
-v9_coapp_installed = '''Aplicativo auxiliar instalado'''
-v9_coapp_outdated = '''Versão desatualizada do Aplicativo auxiliar - favor atualizar'''
 v9_coapp_update = '''Atualize o Aplicativo auxiliar'''
 v9_coapp_not_installed = '''Aplicativo auxiliar não instalado'''
 v9_coapp_install = '''Instalar Aplicativo auxiliar'''
-v9_coapp_recheck = '''Verifique novamente'''
 v9_no_validate_without_coapp = '''O Aplicativo da companhia precisa estar instalado para a validação da licença'''
 v9_lic_status_verifying = '''Verificando licença...'''
 v9_weh_prefs_label_downloadControlledMax = '''Máximo de downloads simultâneos'''
@@ -544,5 +540,4 @@ v9_lic_status_unset = '''Licença não selecionada'''
 v9_lic_status_blocked = '''Licença bloqueada'''
 v9_lic_status_locked = '''Licença expirada (revalidando)'''
 v9_lic_mismatch2 = '''A licença é para $1 mas a construção da extensão é para $2'''
-v9_lic_status_accepted = '''Licença verificada'''
 v9_no_license_registered = '''Nenhuma licença foi registrada'''

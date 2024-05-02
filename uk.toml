@@ -1,3 +1,4 @@
+
 [uk]
 Bytes = '''$1 байт'''
 GB = '''$1 Гб'''
@@ -500,9 +501,7 @@ weh_prefs_titleMode_option_multiline = '''В кілька рядків'''
 weh_prefs_titleMode_option_right = '''Еліпсис зправа'''
 yes = '''Так'''
 you_downloaded_n_videos = '''Ви тільки що успішно завантажили ваш $1й файл з Video DownloadHelper.'''
-
 ## V9 Strings
-
 v9_yes = '''Так'''
 v9_no = '''Ні'''
 v9_error = '''Помилка'''
@@ -528,12 +527,9 @@ v9_not_see_again = '''Не дивитися це повідомлення зно
 v9_tell_me_more = '''Розкажіть більше про це'''
 v9_settings = '''Налаштування'''
 v9_coapp_unchecked = '''Перевірка супутньої програми...'''
-v9_coapp_installed = '''Допоміжний додаток встановлено'''
-v9_coapp_outdated = '''Допоміжний додаток застарів - будь-ласка оновіть'''
 v9_coapp_update = '''Оновіть супутню програму'''
 v9_coapp_not_installed = '''Допоміжний додаток не встановлено'''
 v9_coapp_install = '''Встановити допоміжний додаток'''
-v9_coapp_recheck = '''Перевірити'''
 v9_no_validate_without_coapp = '''Для перевірки ліцензії має бути встановлений партнерський застосунок'''
 v9_lic_status_verifying = '''Перевірка ліцензії'''
 v9_weh_prefs_label_downloadControlledMax = '''Максимальне число одночасних завантажень'''
@@ -544,5 +540,4 @@ v9_lic_status_unset = '''Немає ліцензії'''
 v9_lic_status_blocked = '''Ліцензію заблоковано'''
 v9_lic_status_locked = '''Ліцензія заблокована (перевірка) '''
 v9_lic_mismatch2 = '''Ліцензія для $1, але версія розширення розрахована на $2'''
-v9_lic_status_accepted = '''Ліцензію перевірено'''
 v9_no_license_registered = '''Жодна ліцензія не зареєстрована'''
