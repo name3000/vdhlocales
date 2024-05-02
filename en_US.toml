@@ -1,5 +1,6 @@
 [en_US]
 
+__MSG_appDesc_ = "Video DownloadHelper"
 Bytes = '''$1 Bytes'''
 GB = '''$1 GB'''
 KB = '''$1 KB'''
