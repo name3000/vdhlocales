@@ -707,5 +707,5 @@ v9_reset = "Reset"
 v9_save = "Save"
 
 v9_user_message_no_incognito_title = "No Incognito mode"
-v9_user_message_no_incognito_body = "Video DownloadHelper is not enabled for private browsing (this is not required)."
-v9_user_message_no_incognito_open_settings = "Enable in Browser Settings."
+v9_user_message_no_incognito_body = "Video DownloadHelper will not work in a Private/Incognito windows. You need to enable that option manually (this is not required)."
+v9_user_message_no_incognito_open_settings = "Enable in Browser Settings"
