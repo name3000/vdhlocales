@@ -709,3 +709,6 @@ v9_save = "Save"
 v9_user_message_no_incognito_title = "No Incognito mode"
 v9_user_message_no_incognito_body = "Video DownloadHelper is not enabled in a Private/Incognito windows. You need to turn on that option manually (this is not required)."
 v9_user_message_no_incognito_open_settings = "Enable in Browser Settings"
+
+v9_yt_bulk_detected = "Detected $1 videos from Youtube"
+v9_yt_bulk_detected_trigger = "Start bulk download"
