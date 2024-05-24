@@ -715,4 +715,5 @@ v9_yt_bulk_detected_trigger = "Start bulk download"
 
 v9_user_message_one_hundred_downloads = "You've downloaded 100 videos!"
 v9_user_message_one_hundred_downloads_body = "We hope you're enjoying Video DownloadHelper :) Would you mind writing a nice review on the addon website?"
+v9_user_message_one_hundred_downloads_leave_review = "Leave a review"
 v9_user_message_one_hundred_downloads_never_show_again = "Don't ask again"
