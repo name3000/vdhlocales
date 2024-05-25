@@ -618,7 +618,7 @@ v9_panel_downloading_stop = "stop"
 # Panel > Error
 
 v9_panel_error_coapp_failure_title = "Download failed"
-v9_panel_error_coapp_failure_description = "Sadly we failed at downloading that specific media. We try to support as many websites as possible, so it would help a lot if you could report that error!"
+v9_panel_error_coapp_failure_description = "Sadly we failed at downloading that specific media. We try to support as many websites as possible, so it would help a lot if you could report that error (it's anonymous!)."
 v9_panel_error_coapp_failure_report_button2 = "Report"
 v9_panel_error_coapp_failure_reported_button = "Reported, thank you!"
 
