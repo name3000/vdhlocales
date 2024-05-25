@@ -619,8 +619,8 @@ v9_panel_downloading_stop = "stop"
 
 v9_panel_error_coapp_failure_title = "Download failed"
 v9_panel_error_coapp_failure_description = "Sadly we failed at downloading that specific media. We try to support as many websites as possible, so it would help a lot if you could report that error!"
-v9_panel_error_coapp_failure_report_button = "Open Ticket"
-v9_panel_error_coapp_failure_copy_report_button = "Copy bug details"
+v9_panel_error_coapp_failure_report_button2 = "Report"
+v9_panel_error_coapp_failure_reported_button = "Reported, thank you!"
 
 # Panel > Footer
 v9_panel_footer_show_in_sidebar_tooltip = "Show in sidebar"
