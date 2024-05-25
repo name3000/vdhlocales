@@ -662,3 +662,7 @@ v9_user_message_no_incognito_open_settings = "Activer dans les paramètres du na
 v9_lic_status_locked2 = "Licence vérouillée (vérifier vos emails)"
 v9_yt_bulk_detected_trigger = "Démarrer le téléchargement multiple"
 v9_yt_bulk_detected = "$1 vidéos détectée depuis YouTube"
+v9_user_message_one_hundred_downloads = "Vous avez téléchargé 100 vidéos !"
+v9_user_message_one_hundred_downloads_body = "Nous espérons que vous appréciez Video DownloadHelper :) Voudriez-vous laisser un gentil commentaire sur le site de l'addon ?"
+v9_user_message_one_hundred_downloads_leave_review = "Laissez un commentaire"
+v9_user_message_one_hundred_downloads_never_show_again = "Ne pas demander à nouveau"
