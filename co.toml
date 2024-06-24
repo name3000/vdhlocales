@@ -1,10 +1,34 @@
 [co]
+
+# Information about Corsican localization for Video DownloadHelper:
+#
+# 1. The latest update of Corsican translation file is available here:
+# 	https://github.com/aclap-dev/vdhlocales/blob/master/co.toml
+#
+# 2. History of Corsican translation:
+#
+# 	- Updated in 2024 by Patriccollu di Santa Maria è Sichè: Feb. 17th (8.2.0.23a1), June 26th (9.0.2.3a1)
+# 	- Updated in 2023 by Patriccollu di Santa Maria è Sichè: Oct. 4th (8.1.0.0a4) and Dec. 29th (8.1.2.0a2)
+# 	- Updated in 2022 by Patriccollu di Santa Maria è Sichè: Aug. 2nd (7.6.3a5)
+# 	- Updated in 2021 by Patriccollu di Santa Maria è Sichè: July 2nd (7.6.0) and Oct. 20th (7.6.3a1)
+# 	- Created in 2020 by Patriccollu di Santa Maria è Sichè: Dec. 20th (7.4.0)
+#
+# 3. An additionnal information about Corsican translation is available here:
+# 	https://github.com/Patriccollu/Lingua_Corsa-Infurmatica/blob/ceppu/Prughjetti/Video%20DownloadHelper/Traduzzione.md
+#
+
+## Title of the Add-on.
+
+__MSG_appDesc_ = "Video DownloadHelper"
+
+## Strings
+
 Bytes = "$1 ottetti"
 GB = "$1 Go"
 KB = "$1 Ko"
 MB = "$1 Mo"
 about = "Apprupositu"
-about_alpha_extra7_fx = "Per via di cambiamenti tecnichi interni à Firefox, u modulu addiziunale hè statu riscrittu cumpletamente. Aspittate per piacè qualchì settimana di più per chì tutte e funzioni sianu di ritornu."
+about_alpha_extra7_fx = "Per via di cambiamenti tecnichi interni à Firefox, u modulu addiziunale hè statu riscrittu sanu sanu. Aspittate per piacè qualchì settimana di più per chì tutte e funzioni sianu di ritornu."
 about_alpha_intro = "Què hè una versione alfa."
 about_beta_intro = "Què hè una versione beta."
 about_chrome_licenses = "Infurmazione apprupositu di e licenze Chrome"
@@ -29,6 +53,8 @@ action_details_description = "Affisseghja detaglii nant’à stu risultatu"
 action_details_title = "Detaglii"
 action_download_description = "Scaricheghja u schedariu nant’à u vostru discu duru"
 action_download_title = "Scaricà"
+action_downloadaudio_description = "Scaricheghja solu l’audio"
+action_downloadaudio_title = "Scaricà solu l’audio"
 action_downloadconvert_description = "Scaricheghja u medià è u cunvertisce in un’altru furmatu"
 action_downloadconvert_title = "Scaricà è cunvertisce"
 action_openlocalcontainer_description = "Apre u cartulare lucale di u schedariu"
@@ -39,6 +65,8 @@ action_pin_description = "Rende u risultatu perennu"
 action_pin_title = "Spirlà"
 action_quickdownload_description = "Scaricheghja senza dumandà a destinazione"
 action_quickdownload_title = "Scaricamentu rapidu"
+action_quickdownloadaudio_description = "Scaricheghja solu l’audio senza dumandà a destinazione"
+action_quickdownloadaudio_title = "Scaricamentu rapidu solu di l’audio"
 action_quicksidedownload_description = "Scaricamentu laterale senza dumandà a destinazione"
 action_quicksidedownload_title = "Scaricamentu laterale prestu"
 action_sidedownload_description = "Scaricadore esperimentale"
@@ -173,7 +201,7 @@ convrule_convert = "Cunvertisce"
 convrule_domain = "Duminiu"
 convrule_extension = "Estensione"
 convrule_format = "à u furmatu $1"
-convrule_from_domain = "di u duminiu $1"
+convrule_from_domain = "da u duminiu $1"
 convrule_no_convert = "Ùn micca cunvertisce"
 convrule_output_format = "Furmatu d’esciuta"
 convrule_refresh_formats = "Attualizà i furmati d’esciuta"
@@ -191,6 +219,8 @@ dash_streaming = "Diffusione DASH"
 default = "Predefinitu"
 details_parenthesis = "(Detaglii)"
 dev_build = "Custruzzione di sviluppu"
+dialog_audio_impossible = "Stu tipu di medià ùn accetta micca di scaricà solu l’audio"
+dialog_audio_impossible_title = "Ùn si pò micca scaricà l’audio"
 directory_not_exist = "U cartulare ùn esiste micca"
 directory_not_exist_body = "U cartulare « $1 » ùn esiste micca ; site prontu(a) à crealu ?"
 dlconv_download_and_convert = "Scaricà è cunvertisce"
@@ -213,10 +243,9 @@ exit_natmsgsh = "Chjode l’appiecazione cumpagnu"
 explain_qr1 = "Viderete chì a video risultante cuntene una filigrana in un scornu."
 explain_qr2 = "Ghjè perchè avete sceltu una variante adattevule è chì a funzione di cunversione ùn hè micca stata arregistrata."
 export = "Espurtà"
-f4f_streaming = "Flussu direttu F4F"
 failed_aggregating = "Fiascu à l’aghjunghjitura di « $1 »"
-failed_converting = "Fiascu à a cunversione di « $1 »"
-failed_getting_info = "Fiascu à a culletta d’infurmazione in « $1 »"
+failed_converting = "Fiascu durante a cunversione di « $1 »"
+failed_getting_info = "Fiascu durante a culletta d’infurmazione in « $1 »"
 failed_opening_directory = "Fiascu à l’apertura di u cartulare di schedariu"
 failed_playing_file = "Impussibule di leghje u schedariu"
 file_dialog_date = "Data"
@@ -225,7 +254,7 @@ file_dialog_size = "Dimensione"
 file_generated = "U schedariu « $1 » hè statu creatu."
 file_ready = "« $1 » hè prontu avà"
 finalizing = "Cunclusione…"
-from_domain = "Da « $1 »"
+from_domain = "Da $1"
 gallery = "Galleria"
 gallery_files_types = "Schedarii di tipu « $1 »"
 gallery_from_domain = "Galleria di « $1 »"
@@ -241,8 +270,8 @@ import = "Impurtà"
 import_invalid_format = "Furmatu inaccettevule"
 in_current_tab = "In l’unghjetta attuale"
 in_other_tab = "In l’altre unghjette"
-lic_mismatch1 = "A licenza hè per « $1 » ma a versione di l’estensione di u navigatore ùn hè micca stata specificata"
-lic_mismatch2 = "A licenza hè per « $1 » ma l’estensione hè stata creata per « $2 »"
+lic_mismatch1 = "A licenza hè per « $1 » ma u tipu di navigatore ùn hè micca statu specificatu"
+lic_mismatch2 = "A licenza hè per « $1 » ma l’estensione hè stata custruita per « $2 »"
 lic_not_needed_linux = "A nostra cuntribuzione à Linux : alcuna licenza hè richiesta"
 lic_status_accepted = "Licenza verificata"
 lic_status_blocked = "Licenza bluccata"
@@ -257,11 +286,26 @@ lic_status_verifying = "Verificazione di a licenza…"
 license = "Licenza"
 license_key = "Chjave di licenza"
 licensing = "Licenza cuncessa"
+live_stream = "flussu di cuntinuu"
 logs = "Ghjurnali"
-media = "Schedariu multimedià"
+media = "Medià"
 merge_error = "Sbagliu d’aghjunghjitura"
 merge_local_files = "Adunisce schedarii audio è video lucale"
 more = "Più…"
+mup_best_video_quality = "Qualità video preferita"
+mup_ignore_low_quality = "Ignurà e video di qualità bassa"
+mup_ignore_low_quality_help = "Certe pagine cuntenenu medià di « qualità bassa » chì sò solu impiegati cum’è « effetti », tale un schedariu WAV per un sonu di cliccu, o un filmettu cortu per una chjuca animazione di pagina."
+mup_ignored_containers = "Ùn affissà micca i medià cù cuntenidori"
+mup_ignored_video_codecs = "Ùn affissà micca i medià cù cudechi"
+mup_lowest_video_quality = "Ignurà i filmetti inferiore à"
+mup_max_variants = "Numeru di variante"
+mup_max_variants_help = "Ogni filmettu vene in furmati diversi. Vi affissemu prima a versione a più bona è ancu certi furmati alternativi (variante)."
+mup_page_title = "Preferenze di i medià"
+mup_prefer_60fps = "Preferisce 60 fiure à a seconda, è superiore"
+mup_prefered_container = "Furmatu preferitu di u cuntenidore"
+mup_prefered_video_codecs = "Cudechi di filmettu preferiti"
+mup_reset = "reinizià"
+mup_saved = "arregistratu !"
 network_error_no_response = "Sbagliu di a reta - nisuna risposta"
 network_error_status = "Sbagliu di a reta - statu « $1 »"
 new_sub_directory = "Creà un sottucartulare"
@@ -302,10 +346,10 @@ registered_key = "Chjave"
 reload_addon = "Ricaricà l’estensione"
 reload_addon_confirm = "Da veru, vulete ricaricà l’estensione ?"
 req_donate = "Chì ne pensate di fà una chjuca dunazione per sustene u sviluppu ?"
-req_locale = "Osinnò, aiutacci à traduce l’estensione in « $1 » chì ci sò sempre $2 catene micca tradutte ?"
+req_locale = "Osinnò, aiutacci à traduce l’estensione in « $1 » chì ci sò ancu $2 catene micca tradutte ?"
 req_review = "Osinnò, chì ne pensate di lascià un bellu cummentu nant’à u situ di l’estensioni di Mozilla ?"
 req_review_link = "Scrive un bellu cummentu apprupositu di Video DownloadHelper"
-reset_settings = "Reinizializazione di e preferenze"
+reset_settings = "Reinizializazione di i parametri"
 running = "In funzione"
 save = "Arregistrà"
 save_as = "Arregistrà cù u nome…"
@@ -316,7 +360,7 @@ select_output_config = "Selezziunà a cunfigurazione d’esciuta…"
 select_output_directory = "Cartulare d’esciuta"
 select_video_file_to_merge = "Selezziunà u schedariu cuntenendu u flussu video"
 selected_media = "Selezzione da gruppu"
-settings = "Preferenze"
+settings = "Parametri"
 smartname_add_domain = "Aghjunghje una regula di numinazione astuta"
 smartname_create_rule = "Creà una regula"
 smartname_define = "Definisce una regula di numinazione astuta"
@@ -388,7 +432,6 @@ weh_prefs_description_downloadControlledMax = "Cuntrolleghja u numeru di scarica
 weh_prefs_description_downloadRetries = "Numeru di tentativi per scaricà un schedariu"
 weh_prefs_description_downloadRetryDelay = "Cumportu trà i tentativi di scaricamentu (in ms)"
 weh_prefs_description_downloadStreamControlledMax = "Cuntrolleghja u numeru di flussi per scaricà ogni elementu"
-weh_prefs_description_f4fEnabled = "Attivazione di a diffusione segmentata F4F"
 weh_prefs_description_fileDialogType = "Cumu i dialoghi di schedariu sò affissati"
 weh_prefs_description_galleryNaming = "Cumu sceglie i nomi di schedariu quandu si scaricheghja da una galleria"
 weh_prefs_description_hitsGotoTab = "Affissà un liame in a discrizzione di l’elementu per passà à l’unghjetta di a video"
@@ -424,6 +467,7 @@ weh_prefs_description_smartnamerFnameSpaces = "Cumu trattà i spazii in i nomi d
 weh_prefs_description_tbsnEnabled = "Permette a scuperta è u scaricamentu di e video nant’à Facebook"
 weh_prefs_description_titleMode = "Cumu i tituli longhi di video seranu affissati nant’à u pannellu principale"
 weh_prefs_description_toolsMenuEnabled = "Accede à e cumande da u listinu Attrezzi"
+weh_prefs_description_use_native_filepicker = "Impiegà u selettore di schedariu di u sistema"
 weh_prefs_fileDialogType_option_panel = "Finestra"
 weh_prefs_fileDialogType_option_tab = "Unghjetta"
 weh_prefs_galleryNaming_option_index_url = "Indice - Indirizzu web"
@@ -467,7 +511,6 @@ weh_prefs_label_downloadControlledMax = "Numeru massimu di scaricamenti simultan
 weh_prefs_label_downloadRetries = "Numeru di tentativi di scaricamentu"
 weh_prefs_label_downloadRetryDelay = "Cumportu trà i tentativi di scaricamentu"
 weh_prefs_label_downloadStreamControlledMax = "Numeru massimu di scaricamenti di flussu simultanei"
-weh_prefs_label_f4fEnabled = "Attivà « F4F »"
 weh_prefs_label_fileDialogType = "Dialogu di schedariu"
 weh_prefs_label_galleryNaming = "Numinazione di i schedarii di galleria"
 weh_prefs_label_hitsGotoTab = "Affissà a cumanda « Andà à l’unghjetta »"
@@ -504,6 +547,7 @@ weh_prefs_label_tbsnEnabled = "Accettà Facebook"
 weh_prefs_label_tbvwsExtractionMethod = "Metoda d’estrazzione"
 weh_prefs_label_titleMode = "Tituli longhi nant’à u pannellu principale"
 weh_prefs_label_toolsMenuEnabled = "Listinu d’attrezzi"
+weh_prefs_label_use_native_filepicker = "Impiegà u selettore di schedariu nativu"
 weh_prefs_smartnamerFnameSpaces_option_hyphen = "Rimpiazzà cù lineette"
 weh_prefs_smartnamerFnameSpaces_option_keep = "Cunservà"
 weh_prefs_smartnamerFnameSpaces_option_remove = "Caccià"
@@ -513,6 +557,15 @@ weh_prefs_titleMode_option_multiline = "Nant’à parechje linee"
 weh_prefs_titleMode_option_right = "Ellisse à manu diritta"
 yes = "Sì"
 you_downloaded_n_videos = "Venite subitu di riesce à scaricà u vostru $1u schedariu cù Video DownloadHelper."
+
+####################################################################
+###
+### V9 Strings
+###
+####################################################################
+
+## COPIED FROM V8
+
 v9_yes = "Sì"
 v9_no = "Innò"
 v9_error = "Sbagliu"
@@ -523,8 +576,9 @@ v9_coapp_required_text = "St’operazione richiede un’appiecazione esterna per
 v9_coapp_help = "Fate un cliccu quì per analizà i prublemi."
 v9_coapp_installed = "Appiecazione cumpagnu installata :"
 v9_coapp_recheck = "Torna à verificà"
-v9_lic_status_accepted = "Licenza verificata"
 v9_coapp_outdated = "Appiecazione cumpagnu troppu anziana, rinnovatela per piacè"
+v9_dialog_audio_impossible_title = "Ùn si pò micca scaricà l’audio"
+v9_dialog_audio_impossible = "Stu tipu di medià ùn accetta micca di scaricà solu l’audio"
 v9_converter_needs_reg = "Inscrizzione richiesta"
 v9_get_conversion_license = "Ottene una licenza di cunversione"
 v9_converter_reg_audio = "Avete dumandatu, sia da manera esplicita, sia cù una regula di cunversione autumatica, a generazione d’un schedariu medià unicamente audio. Què richiede un cunvertidore arregistratu."
@@ -537,7 +591,7 @@ v9_about_qr = "Schedariu ingeneratu"
 v9_explain_qr1 = "Viderete chì a video risultante cuntene una filigrana in un scornu."
 v9_not_see_again = "Ùn affissà più stu messaghju"
 v9_tell_me_more = "Sapene di più apprupositu di què"
-v9_settings = "Preferenze"
+v9_settings = "Parametri"
 v9_copy_settings_info_to_clipboard = "Cupià l’infurmazione in u preme’papei"
 v9_coapp_unchecked = "Verificazione di l’appiecazione cumpagnu…"
 v9_coapp_update = "Rinnovà l’appiecazione cumpagnu"
@@ -546,36 +600,132 @@ v9_coapp_install = "Installà l’appiecazione cumpagnu"
 v9_no_validate_without_coapp = "L’appiecazione cumpagnu deve esse installata per validà a licenza"
 v9_lic_status_verifying = "Verificazione di a licenza…"
 v9_weh_prefs_label_downloadControlledMax = "Numeru massimu di scaricamenti simultanei"
+v9_mup_max_variants = "Numeru di variante"
 v9_weh_prefs_description_contextMenuEnabled = "Accede à e cumande da un cliccu dirittu nant’à a pagina"
 v9_vdh_notification = "Video DownloadHelper"
 v9_file_ready = "« $1 » hè prontu avà"
 v9_lic_status_unset = "Licenza micca definita"
 v9_lic_status_blocked = "Licenza bluccata"
-v9_lic_status_locked = "Licenza ammarchjunata (rivalidazione)"
-v9_lic_mismatch2 = "A licenza hè per « $1 » ma l’estensione hè stata creata per « $2 »"
+v9_lic_status_locked2 = "Licenza ammarchjunata (verificate i vostri messaghji elettronichi)"
+v9_lic_mismatch2 = "A licenza hè per « $1 » ma l’estensione hè stata custruita per « $2 »"
+v9_lic_status_accepted = "Licenza verificata"
 v9_no_license_registered = "Nisuna licenza ùn hè stata arregistrata"
-__MSG_appDesc_ = "Scaricà e video di u Web"
-action_downloadaudio_description = "Scaricheghja solu l’audio"
-action_downloadaudio_title = "Scaricà solu l’audio"
-action_quickdownloadaudio_description = "Scaricheghja solu l’audio senza dumandà a destinazione"
-action_quickdownloadaudio_title = "Scaricamentu rapidu solu di l’audio"
-dialog_audio_impossible = "Stu tipu di medià ùn accetta micca di scaricà solu l’audio"
-dialog_audio_impossible_title = "Ùn si pò micca scaricà l’audio"
-live_stream = "flussu di cuntinuu"
-mup_best_video_quality = "Qualità video preferita"
-mup_ignore_low_quality = "Ignurà e video di qualità bassa"
-mup_ignore_low_quality_help = "Certe pagine cuntenenu medià di « qualità bassa » chì sò solu impiegati cum’è « effetti », tale un schedariu WAV per un sonu di cliccu, o un filmettu cortu per una chjuca animazione di pagina."
-mup_ignored_containers = "Ùn affissà micca i medià cù cuntenidori"
-mup_ignored_video_codecs = "Ùn affissà micca i medià cù cudechi"
-mup_lowest_video_quality = "Ignurà i filmetti inferiore à"
-mup_max_variants = "Numeru di variante"
-mup_max_variants_help = "Ogni filmettu vene in furmati diversi. Vi affissemu prima a versione a più bona è ancu certi furmati alternativi (variante)."
-mup_page_title = "Preferenze di i medià"
-mup_prefer_60fps = "Preferisce 60 fiure à a seconda, è superiore"
-mup_prefered_container = "Furmatu preferitu di u cuntenidore"
-mup_prefered_video_codecs = "Cudechi di filmettu preferiti"
-mup_reset = "reinizià"
-mup_saved = "arregistratu !"
-v9_dialog_audio_impossible_title = '''Ùn si pò micca scaricà l’audio'''
-v9_dialog_audio_impossible = '''Stu tipu di medià ùn accetta micca di scaricà solu l’audio'''
-v9_mup_max_variants = '''Numeru di variante'''
+
+## Panel
+
+v9_panel_view_show_all_tabs = "Affissà tutte l’unghjette"
+v9_panel_view_show_low_quality = "Affissà i medià di qualità bassa"
+v9_panel_view_sort_status = "Ordinà da u statu"
+v9_panel_view_sort_reverse = "Arritrusà l’ordine"
+v9_panel_view_clean = "Affissà u buttone Nettà"
+v9_panel_view_clean_all = "Affissà u buttone Tuttu nettà"
+v9_panel_view_open_settings = "Altri parametri"
+
+v9_panel_downloadable_variant_no_details = "nisunu detagliu"
+
+v9_panel_variant_menu_prefer_quality = "Preferisce sempre sta qualità"
+v9_panel_variant_menu_prefer_format = "Preferisce sempre stu furmatu"
+
+v9_panel_downloaded_retry_tooltip = "Scaricà torna"
+v9_panel_downloaded_delete_file_tooltip = "Squassà u schedariu"
+v9_panel_downloaded_show_dir_tooltip = "Affissà u cartulare di scaricamentu"
+
+v9_panel_downloading_stop = "Piantà"
+
+# Panel > Error
+
+v9_panel_error_coapp_failure_title = "Fiascu di u scaricamentu"
+v9_panel_error_coapp_failure_description = "Per disgrazia, ùn era micca pussibule di scaricà stu medià specificu. Pruvemu d’accettà u numeru u più maiò di siti web, dunque, ci aiuteria assai s’è vo pudiate signalacci stu sbagliu (què hè anonimu !)"
+v9_panel_error_coapp_failure_report_button = "Apre un ticchettu"
+v9_panel_error_coapp_failure_copy_report_button = "Cupià i detaglii di u prublema"
+
+# Panel > Footer
+v9_panel_footer_show_in_sidebar_tooltip = "Affissà in a barra laterale"
+v9_panel_footer_show_in_popup_tooltip = "Affissà in un finestrinu"
+
+v9_panel_footer_clean_tooltip = "Caccià da a lista i medià scuperti"
+v9_panel_footer_clean_all_tooltip = "Caccià da a lista i medià scuperti è scaricati (i schedarii ùn sò micca squassati)"
+v9_panel_footer_convert_local_tooltip = "Convertisce schedarii lucali"
+
+v9_panel_error_nocoapp_button_install = "Scaricà è installà"
+v9_panel_error_coapp_too_old_button_udpate = "Messe à livellu"
+
+# Setting
+
+v9_short_help = "Bisognu d’aiutu ?"
+
+v9_settings_button_reset = "Reinizializazione di i parametri"
+v9_settings_button_import = "Impurtà i parametri"
+v9_settings_button_export = "Espurtazione di i parametri"
+v9_settings_button_reload = "Ricaricà l’estensione"
+
+v9_settings_download_directory = "Cartulare di scaricamentu"
+v9_settings_download_directory_change = "Cambià"
+
+v9_settings_variants_title = "Tipu di medià preferitu"
+v9_settings_variants_clear = "Squassà"
+
+v9_settings_checkbox_force_inbrowser = "Ùn impiegà micca CoApp s’ella hè pussibule"
+v9_settings_checkbox_notification = "Affissà a nutificazione di fine d’un scaricamentu"
+v9_settings_checkbox_notification_incognito = "Affissà e nutificazioni in modu di navigazione privata"
+v9_settings_checkbox_forget_on_close = "Viutà a lista di medià quandu l’unghjetta hè chjosa"
+v9_settings_checkbox_view_convert_local = "Affissà u buttone di cunversione di i schedarii lucali"
+v9_settings_checkbox_use_wide_ui = "Aumentà a dimensione di u finestrinu di l’estensione"
+v9_settings_checkbox_use_legacy_ui = "Impiegà l’interfaccia anziana"
+
+v9_settings_license_placeholder = "Stampittà a licenza"
+v9_settings_license_check = "Cuntrollà a chjave di licenza"
+v9_settings_license_get = "Ottene a licenza"
+
+v9_settings_theme_title = "Tema"
+v9_settings_theme_system = "sistema"
+v9_settings_theme_light = "chjaru"
+v9_settings_theme_dark = "scuru"
+
+# new badge (needs to be a short word)
+v9_badge_new = "novu"
+
+# All these need to be short!
+v9_panel_download_button_label = "Scaricà"
+v9_panel_download_as_button_label = "Scaricà cum’è…"
+v9_panel_download_audio_button_label = "Scaricà l’audio"
+v9_panel_copy_url_button_label = "Cupià l’indirizzu web"
+
+# User messages
+v9_panel_view_hide_downloaded = "Piattà autumaticamente i medià scaricati"
+v9_user_message_auto_hide_downloaded = "Piattà autumaticamente i medià scaricati ?"
+
+v9_checkbox_remember_action = "Arricurdassi cum’è azzione predefinita"
+v9_menu_item_download_and_convert = "Scaricà è cunvertisce à u furmatu"
+v9_menu_item_details = "Detaglii"
+v9_menu_item_smartnaming = "Numinazione astuta"
+v9_menu_item_blacklist = "Lista nera"
+v9_menu_item_blacklist_media = "Medià"
+v9_menu_item_blacklist_page = "Pagina"
+v9_menu_item_blacklist_domain = "Duminiu"
+
+v9_blacklist_glob = "Impiegà a stella (*) per una ricerca più larga"
+
+v9_smartnaming_title = "Numinazione astuta"
+v9_smartnaming_reset_for = "Reinizià per"
+v9_smartnaming_save_for = "Arregistrà per"
+v9_smartnaming_reset_for_all = "Reinizià tutte e regule di u nome d’ospite."
+v9_smartnaming_save_for_all = "Arregistrà per tutti i nomi d’ospite."
+v9_smartnaming_template = "Mudellu : Impiegà : %title %hostname %pathname %selector"
+v9_smartnaming_max_length = "Longhezza massima"
+v9_smartnaming_selector = "Testu per u selettore CSS (ozzionale)"
+v9_smartnaming_result = "Risultatu"
+v9_smartnaming_test = "Verificà"
+
+v9_filepicker_select_file = "Selezziunà un schedariu"
+v9_filepicker_select_download_dir = "Selezziunà u cartulare di i scaricamenti"
+
+v9_reset = "Reinizià"
+v9_save = "Arregistrà"
+
+v9_user_message_no_incognito_title = "Micca modu di navigazione anonima"
+v9_user_message_no_incognito_body = "Video DownloadHelper ùn hè micca attivatu in modu di navigazione privata o anonima. Ci culerà à attivà st’ozzione manualmente (ma ùn hè micca richiestu)."
+v9_user_message_no_incognito_open_settings = "Attivà i i parametri di u navigatore"
+
+v9_yt_bulk_detected = "Scuperta di $1 filmetti nant’à Youtube"
+v9_yt_bulk_detected_trigger = "Principià u scaricamentu da gruppu"
